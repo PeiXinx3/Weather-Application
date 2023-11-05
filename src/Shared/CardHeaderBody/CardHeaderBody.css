@@ -1,0 +1,9 @@
+
+.card-header {
+    background-color: transparent !important;
+    font-weight: 900;
+    margin: 0 10px;
+    padding-left: 0 !important;
+    padding-bottom: 0 !important;
+    border-color: #838383 !important;
+}

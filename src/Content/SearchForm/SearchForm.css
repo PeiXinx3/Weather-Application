@@ -1,0 +1,24 @@
+.row{
+    display:flex;
+}
+
+.col{
+    display:flex;
+}
+
+.onClickButton{
+    border-radius: 3px;
+    border: 1px solid black;
+    margin: 3px 5px;
+    padding: 0 10px;
+    background-color: #eeeeee !important;
+    color: black;
+}
+
+.invalid-feedback{
+    display: block;
+    border: 1px solid red;
+    background-color:#f8e5e7;
+    color: black;
+    padding: 5px;
+}

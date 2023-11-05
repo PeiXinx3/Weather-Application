@@ -1,0 +1,10 @@
+
+.form-label{
+    margin-right:5px;
+}
+
+.form-control{
+    height: 25px;
+    border-radius: 3px;
+    border: 1px solid black;
+}

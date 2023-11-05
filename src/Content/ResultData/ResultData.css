@@ -1,0 +1,16 @@
+.weatherIcon{
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px 6px 5px;
+}
+
+.resultCardTitle{
+    font-size: 36px !important;
+    font-weight: 800 !important;
+    margin-bottom: 0 !important;
+}
+
+.resultCardBody{
+    padding: 0 !important;
+    font-size: 12px;
+}

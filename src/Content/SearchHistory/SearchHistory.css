@@ -1,0 +1,39 @@
+.noRecordFound{
+    text-align: center;
+    padding: 25px;
+    font-size: 16px;
+    color: #727272;
+}
+
+ul{
+    padding: 0 !important;
+}
+
+li{
+    list-style-type: none;
+}
+
+.listItem{
+    display: block;
+    justify-content: space-between;
+    align-items: center; 
+    font-size: 12px;
+}
+
+.listTimestamp{
+    float: right;
+}
+
+.iconButton{
+    background:#f1f1f1;
+    border: 0;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 5px; 
+    padding: 5px;
+}
+
+.line{
+    width: 100%;
+}
